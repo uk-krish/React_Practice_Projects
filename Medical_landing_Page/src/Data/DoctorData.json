@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"John",
+        "profile":"../assests/doc1.jpg",
+        "specialist":"Counseiling Psychologist"
+    },
+    {
+        "id":2,
+        "name":"Mer",
+        "profile":"../assests/doc2.jpg",
+        "specialist":"Neurologist"
+    },
+    {
+        "id":3,
+        "name":"John",
+        "profile":"../assests/doc3.jpg",
+        "specialist":"Clinical Psychologist"
+    },
+    {
+        "id":4,
+        "name":"Mer",
+        "profile":"../assests/doc4.jpg",
+        "specialist":"Psychiatrist"
+    }
+]

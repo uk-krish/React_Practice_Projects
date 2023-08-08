@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background: #EFF0F5;
+}
+.Topnav-Nav{
+  display: flex;
+    flex-shrink: 0;
+}
+.pentagon {
+  -webkit-clip-path: polygon(50% 0%, 100% 40%, 0% 0%, 18% 100%, 0% 40%);
+      clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 18% 100%, 0% 0%);
+}
+.price_hover:hover {
+  background: rgb(60,87,190);
+background: linear-gradient(180deg, rgba(60,87,190,1) 0%, rgba(32,46,93,1) 88%);
+}
+.price_hover:hover  .bolder-text{
+color: #fff;
+}
